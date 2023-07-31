@@ -1,1 +1,1 @@
-In this repository described usage of neural networks for image classification using MNIST dataset as example.
+In this repository described usage of regular and convolutional neural networks for image classification using MNIST and Food-101 datasets as examples. For MNIST regular multilayer perceptron was used and for Food-101 images CNN was used due to better performance of this model on colored images. 
